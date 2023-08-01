@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camiseta",
+      "precio": 20.99,
+      "categoria": "Ropa"
+    },
+    {
+      "id": 2,
+      "nombre": "Zapatos",
+      "precio": 49.99,
+      "categoria": "Calzado"
+    },
+    {
+      "id": 3,
+      "nombre": "Pantalones",
+      "precio": 34.95,
+      "categoria": "Ropa"
+    },
+    {
+      "id": 4,
+      "nombre": "Sombrero",
+      "precio": 12.50,
+      "categoria": "Accesorios"
+    },
+    {
+      "id": 5,
+      "nombre": "Bolso",
+      "precio": 27.75,
+      "categoria": "Accesorios"
+    }
+  ]
+  
